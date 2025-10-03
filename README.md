@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 my name is Germán Devís &reg;
+**I LIKE BIG DATA :D**
+---
 
-<!--
-**GermanDevis/GermanDevis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is my LinkedIn https://es.linkedin.com/in/germ%C3%A1n-dev%C3%ADs-serrano-793b31231
+![Alt Text](1742246757857.jpg)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+---
 
-Here are some ideas to get you started:
+# Programming codes I have mastered:
+## None D: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here I display some programming boxes to fill up my profile:
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
