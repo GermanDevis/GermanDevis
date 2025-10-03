@@ -2,7 +2,7 @@
 **I LIKE BIG DATA :D**
 ---
 
-### This is my LinkedIn https://es.linkedin.com/in/germ%C3%A1n-dev%C3%ADs-serrano-793b31231
+### This is my LinkedIn https://www.linkedin.com/in/germandevis/
 ![](1742246757857.jpg)
 ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ---
